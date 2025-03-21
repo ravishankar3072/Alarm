@@ -1,2 +1,5 @@
 # Alarm
- Crafted using HTML, CSS, and JS, achieving a 25 percentage reduction in user-reported errors and bugs.
+
+<img width="1080" alt="alarm" src="https://user-images.githubusercontent.com/110377660/234672119-04a0a3b0-3464-4978-866d-cae4659508b1.png">
+
+### Hosting link :- https://github.com/ravishankar3072/Alarm/
